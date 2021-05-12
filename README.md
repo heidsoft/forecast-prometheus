@@ -1,3 +1,10 @@
+# 参考模型
+1. https://facebook.github.io/prophet/docs/quick_start.html#python-api
+2. https://zhuanlan.zhihu.com/p/77063373
+3. https://zhuanlan.zhihu.com/p/51541755
+4. https://zhuanlan.zhihu.com/p/52330017
+5. https://zhuanlan.zhihu.com/p/33189135
+
 # Data Science on Prometheus Metrics
 ## **Table of Contents**
 1. [Metric Types](#metrics)
